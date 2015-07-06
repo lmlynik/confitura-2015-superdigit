@@ -18,6 +18,15 @@ super-digit(98741) = super-digit(9+8+7+4+1)
                   = 2.
 ```
 
+## Running the solution
+
+[SBT](http://www.scala-sbt.org/) is a prerequisite, after you install it, just run:
+
+```
+sbt "run 98741"
+```
+
+
 You can check contest bye-laws [here](http://tech.viacom.com/warsawsdc/confitura2015/Regulamin_konkurs_Viacom_programmer_adventure_2015.pdf).
 
 Check out our Confitura 2015 site [here](http://tech.viacom.com/warsawsdc/confitura2015/)

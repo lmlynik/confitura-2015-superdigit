@@ -9,5 +9,4 @@ object SuperDigit {
 
   private def sumDigits(number: Long): Long =
     number.toString.foldLeft(0L)(_ + _.toInt - 48)
-
 }
